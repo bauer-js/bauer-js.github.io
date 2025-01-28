@@ -1,0 +1,11 @@
+html,body {
+    height: 100vh;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    border: solid black;
+}
